@@ -5,7 +5,7 @@
 アノテーションデータおよび画像データがあれば、物体検出の学習を実施できます。  
 
 yolo v3を利用した物体検出タスク  
- Use_MMDetection_Use_yolov3.ipynb.ipynb  
+  Use_MMDetection_Use_yolov3.ipynb.ipynb  
  
 htc_without_semanticを用いた物体検出タスク及びセグメンテーションタスク  
 　Use_MMDetection_Use_MMDetection.ipynb.ipynb  
