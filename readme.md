@@ -16,5 +16,5 @@
 
 https://qiita.com/ryosao/items/f613d58ffe35c97f9968
 
-- swinを利用した物体検出タスク
+- swinを利用した物体検出タスク  
 　-- Use_MMDetection_Use_swin.ipynb 
