@@ -12,7 +12,7 @@
  
 -htc_without_semanticを用いた物体検出タスク及びセグメンテーションタスク  
 　--Use_MMDetection_Use_MMDetection.ipynb 
- --セグメンテーションタスクにおけるアノテーションの作成方法は↓を参照ください。    
+  --セグメンテーションタスクにおけるアノテーションの作成方法は↓を参照ください。    
 
 https://qiita.com/ryosao/items/f613d58ffe35c97f9968
 
